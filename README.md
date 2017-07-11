@@ -1,5 +1,5 @@
-# Angular 2 Hello-World
-Sample seed hello world app using Angular 2 with Typescript.
+# Angular Hello-World
+Sample seed hello world app using Angular with Typescript.
 
 ## How to run / install
 * [Download](https://nodejs.org/en/download/) and install Node.js
